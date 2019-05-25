@@ -1,4 +1,4 @@
-﻿namespace Prochem1
+﻿namespace Prochem
 {
     partial class FormMain
     {

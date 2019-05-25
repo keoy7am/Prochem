@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.IO.Ports;
 using System.IO;
 
-namespace Prochem1
+namespace Prochem
 {
     public partial class FormMain : Form
     {
